@@ -1,6 +1,6 @@
 # Chocolate Caramel Celebration Cake
 
-This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
+This recipe makes a three-layer celebration cake with a caramel filling between each layer and caramel frosting on the outside.
 
 ## Cake Ingredients
 
@@ -9,7 +9,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 2 teaspoons baking powder
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
-- 3 large eggs
+- 3 extra large eggs
 - 1 cup whole milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
@@ -25,6 +25,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
+- 2 teaspoons caramel extract
 - 2 teaspoons vanilla extract
 - 2 tablespoons heavy cream
 - Pinch of salt
@@ -52,7 +53,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 
 8. Prepare the filling by combining the salted caramel sauce with the chopped toasted pecans.
 
-9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar and vanilla, followed by the heavy cream.
+9. Prepare the frosting by beating the butter until creamy. Gradually add the powdered sugar, caramel extract and vanilla, followed by the heavy cream.
 
 10. Place the first cake layer on a serving plate and spread half of the filling over the top.
 
